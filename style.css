@@ -1,0 +1,34 @@
+/* ==========================================================================
+   ARUNACHAL PRADESH ADMINISTRATIVE REFORMS COMMISSION (APARC)
+   MASTER STYLESHEET — DBIM & GIGW 3.0 COMPLIANT
+   ==========================================================================
+   Color Scheme:
+   #0F5757 | #2D8686 | #75BDBD | #A6D9D9 | #D9F2F2
+   
+   Organized into modular CSS files inside the /css directory:
+   1.  base.css        - Design tokens, reset, typography, a11y utilities
+   2.  layout.css      - Page container, spacer, inner-page banners
+   3.  header.css      - Top brand bar, accessibility tools, navigation menu
+   4.  hero.css        - Home hero banner, shapes, announcement ticker
+   5.  components.css  - Card grids, section headers, officials cards, mandate
+   6.  accordion.css   - Accordions & Terms of Reference items
+   7.  tabs.css        - Tabs portal component
+   8.  tables.css      - GIGW 3.0 data tables, download buttons
+   9.  pages.css       - Gallery & lightbox, contact, news list, policy pages
+   10. footer.css      - Multi-column footer, NIC badge, copyright
+   11. animations.css  - Fade-ins, transitions, keyframes
+   12. responsive.css  - Tablet & mobile breakpoints (1024px & 768px)
+   ========================================================================== */
+
+@import url('css/base.css');
+@import url('css/layout.css');
+@import url('css/header.css');
+@import url('css/hero.css');
+@import url('css/components.css');
+@import url('css/accordion.css');
+@import url('css/tabs.css');
+@import url('css/tables.css');
+@import url('css/pages.css');
+@import url('css/footer.css');
+@import url('css/animations.css');
+@import url('css/responsive.css');
